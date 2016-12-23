@@ -207,7 +207,7 @@ public class MainActivity extends AppCompatActivity
                 }
                 return friendlyMessage;
             }
-
+// test
             @Override
             protected void populateViewHolder(MessageViewHolder viewHolder,
                                               FriendlyMessage friendlyMessage, int position) {
